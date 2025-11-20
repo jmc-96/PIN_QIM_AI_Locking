@@ -12,6 +12,6 @@ For easier navigation through the files, please note that all files whose names 
 
 * CNN for convolutional network models, and
 
-· TRF for locking and unlocking transformer-based large language models.
+* TRF for locking and unlocking transformer-based large language models.
 
 Thank you in advance for your interest in our software, for considering citation, and above all for your willingness to explore this fascinating research domain. We hope you will contribute new ideas and improved results that advance this algorithm even further.

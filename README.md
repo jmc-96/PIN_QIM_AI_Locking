@@ -1,4 +1,4 @@
-This Python software has been developed as part of the research presented in the scientific paper titled **“Dual-Locking Learned AI Models: A PIN-Based Sparse QIM Watermarking and Adaptive Index Permutation Approach.”** The operation of the software functions requires downloading AI models that, due to copyright protection, are **not included** in this repository.
+This Python software has been developed by three authors as part of the research presented in the scientific paper titled **“Dual-Locking Learned AI Models: A PIN-Based Sparse QIM Watermarking and Adaptive Index Permutation Approach.”** The operation of the software functions requires downloading AI models that, due to copyright protection, are **not included** in this repository.
 
 If you find this software useful, please cite the original scientific paper. The citation format is provided below:
 

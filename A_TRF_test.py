@@ -22,7 +22,7 @@ MODELS_ORIG = [
 
 MODELS_LOCKED = [m + "/WL" for m in MODELS_ORIG]
 
-def q(s):  # stavi u navodnike kao u tvom primeru
+def q(s):
     return f'"{s}"'
 
 def run_variant(locked: bool):

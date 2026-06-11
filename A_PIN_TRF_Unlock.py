@@ -58,7 +58,7 @@ print("Folder:", wl_path)
     
 #==============================================================================
 
-#%% ----------------- FINE-TUNING i MERENJA PIN ROBUSTNESS --------------------
+#%% ----------------- FINE-TUNING AND MEASURING PIN ROBUSTNESS --------------------
 
 %run C_TRF_START_test.py
 
